@@ -1,1 +1,1 @@
-# shop-testd
+# shop-tests
